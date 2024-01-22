@@ -1,5 +1,4 @@
-# FaIR Project- Climate Risk
-## Erica Simon
-## January - March 2024
+# FaIR Project
+Erica Simon, Climate Risk Intern
 
-this is a test...
+January - March 2024

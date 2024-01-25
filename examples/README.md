@@ -1,2 +1,2 @@
 # FaIR Examples
-This directory is adapted from the FaIR Docs, and contains examples made by Dr. Chris Smith, the principal creator of FaIR, and relevant data needed to run the example notebooks.
+This directory contains examples on the [FaIR Docs](https://docs.fairmodel.net/en/latest/examples.html), and all credit goes to the FaIR Development Team.

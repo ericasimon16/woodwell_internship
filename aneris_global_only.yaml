@@ -1,0 +1,6 @@
+config:
+    harmonize_year: 2020
+    global_harmonization_only: true
+prefix: ''
+suffix: ''
+add_5regions: false

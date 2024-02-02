@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1706903266,,"wq"
 :q
 |2,0,1706895859,,"q"
-:wq
-|2,0,1706895591,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,245 +27,292 @@
 # Registers:
 
 # File marks:
-'0  341  0  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
-|4,48,341,0,1706895859,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py"
-'1  467  18  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,49,467,18,1706895591,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
-'2  432  3  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,50,432,3,1706895543,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
-'3  432  3  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,51,432,3,1706895543,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
-'4  468  5  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,52,468,5,1706895484,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
-'5  468  5  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,53,468,5,1706895484,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
-'6  467  5  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,54,467,5,1706895484,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
-'7  467  5  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,55,467,5,1706895484,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
-'8  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,56,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
-'9  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,57,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
+'0  205  5  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/convenience.py
+|4,48,205,5,1706903266,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/convenience.py"
+'1  324  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,49,324,39,1706899294,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+'2  331  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,50,331,15,1706899202,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+'3  331  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,51,331,15,1706899202,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+'4  335  33  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,52,335,33,1706898996,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+'5  331  11  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,53,331,11,1706898996,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+'6  335  33  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,54,335,33,1706898996,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+'7  331  11  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,55,331,11,1706898996,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+'8  341  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,56,341,15,1706898864,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+'9  335  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,57,335,15,1706898864,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
 
 # Jumplist (newest first):
--'  341  0  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
-|4,39,341,0,1706895859,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py"
--'  1  0  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
-|4,39,1,0,1706895785,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py"
--'  467  18  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,467,18,1706895591,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  467  18  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,467,18,1706895591,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  432  3  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,432,3,1706895563,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  432  3  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,432,3,1706895563,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  432  3  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,432,3,1706895543,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  432  3  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,432,3,1706895543,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  468  5  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,468,5,1706895520,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  467  5  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,467,5,1706895520,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  468  5  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,468,5,1706895520,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  467  5  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,467,5,1706895520,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  467  5  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,467,5,1706895484,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  467  5  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,467,5,1706895484,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  1  0  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,1,0,1706895458,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  1  0  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,1,0,1706895458,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  1  0  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,1,0,1706895458,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  1  0  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,1,0,1706895458,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  1  0  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,1,0,1706895458,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  1  0  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-|4,39,1,0,1706895458,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  628  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,628,39,1706893699,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893060,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  19  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,19,1706893037,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  24  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,24,1706892977,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
--'  629  31  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
-|4,39,629,31,1706892551,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py"
+-'  205  5  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/convenience.py
+|4,39,205,5,1706903266,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/convenience.py"
+-'  1  0  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/convenience.py
+|4,39,1,0,1706903245,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/convenience.py"
+-'  324  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,324,39,1706899294,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  324  39  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,324,39,1706899294,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  331  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,331,15,1706899272,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  331  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,331,15,1706899272,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  331  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,331,15,1706899202,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  331  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,331,15,1706899202,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  335  33  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,335,33,1706899132,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  335  33  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,335,33,1706899132,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  335  33  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,335,33,1706899132,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  335  33  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,335,33,1706899132,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  331  11  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,331,11,1706898996,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  331  11  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,331,11,1706898996,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  341  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,341,15,1706898951,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  336  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,336,15,1706898951,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  341  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,341,15,1706898951,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  336  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,336,15,1706898951,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  341  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,341,15,1706898951,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  336  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,336,15,1706898951,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  341  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,341,15,1706898951,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  336  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,336,15,1706898951,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  330  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,330,15,1706898864,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  330  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,330,15,1706898864,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  330  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,330,15,1706898864,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  330  15  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,330,15,1706898864,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  348  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,348,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  342  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,342,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  343  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,343,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  337  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,337,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  348  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,348,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  342  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,342,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  343  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,343,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  337  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,337,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  348  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,348,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  342  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,342,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  343  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,343,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  337  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,337,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  348  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,348,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  342  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,342,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  343  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,343,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  337  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,337,16,1706898823,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  345  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,345,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  339  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,339,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  340  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,340,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  334  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,334,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  345  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,345,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  339  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,339,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  340  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,340,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  334  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,334,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  345  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,345,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  339  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,339,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  340  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,340,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  334  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,334,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  345  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,345,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  339  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,339,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  340  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,340,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  334  16  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,334,16,1706898789,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  534  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,534,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  531  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,531,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  528  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,528,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  525  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,525,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  529  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,529,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  526  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,526,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  523  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,523,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  520  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,520,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  534  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,534,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  531  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,531,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  528  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,528,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  525  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,525,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  529  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,529,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  526  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,526,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  523  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,523,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  520  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,520,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  534  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,534,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  531  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,531,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  528  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,528,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  525  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,525,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  529  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,529,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  526  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,526,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  523  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,523,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  520  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,520,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  534  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,534,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  531  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,531,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  528  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,528,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  525  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,525,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  529  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,529,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  526  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,526,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  523  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,523,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  520  7  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
+|4,39,520,7,1706898736,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py"
+-'  201  18  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
+|4,39,201,18,1706897954,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py"
+-'  201  18  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
+|4,39,201,18,1706897954,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py"
+-'  201  18  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
+|4,39,201,18,1706897954,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py"
+-'  201  18  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
+|4,39,201,18,1706897954,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py"
+-'  201  18  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
+|4,39,201,18,1706897954,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py"
+-'  201  18  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
+|4,39,201,18,1706897954,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py"
+-'  201  18  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
+|4,39,201,18,1706897954,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py"
+-'  201  18  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
+|4,39,201,18,1706897954,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py"
+-'  201  18  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
+|4,39,201,18,1706897954,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py"
+-'  201  18  /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
+|4,39,201,18,1706897954,"/opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py"
 
 # History of marks within files (newest to oldest):
 
-> /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
-	*	1706895857	0
-	"	341	0
+> /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/convenience.py
+	*	1706903264	0
+	"	205	5
+	^	205	6
+	.	205	5
+	+	205	5
 
 > /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/driver.py
-	*	1706895589	0
-	"	467	18
-	^	467	19
-	.	467	18
-	+	468	4
-	+	469	5
-	+	468	4
-	+	469	4
-	+	467	18
+	*	1706899290	0
+	"	324	39
+	^	324	40
+	.	324	40
+	+	483	4
+	+	484	5
+	+	483	4
+	+	484	4
+	+	482	18
+	+	274	9
+	+	275	8
+	+	276	9
+	+	288	9
+	+	279	9
+	+	280	9
+	+	281	9
+	+	282	9
+	+	283	9
+	+	287	9
+	+	303	15
+	+	283	8
+	+	274	8
+	+	275	8
+	+	276	8
+	+	279	8
+	+	280	8
+	+	281	8
+	+	282	8
+	+	287	8
+	+	289	0
+	+	288	8
+	+	347	22
+	+	347	15
+	+	349	0
+	+	348	16
+	+	343	37
+	+	341	15
+	+	333	14
+	+	335	22
+	+	336	4
+	+	335	4
+	+	333	4
+	+	332	4
+	+	330	24
+	+	331	15
+	+	324	40
+
+> /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/harmonize.py
+	*	1706897950	0
+	"	201	18
+	^	200	19
+	.	200	18
+	+	200	18
 
 > /opt/miniconda/envs/risk/lib/python3.10/site-packages/aneris/cmip6/cmip6_utils.py
 	*	1706893698	0

@@ -1,2 +1,2 @@
 # FaIR Examples
-This directory contains examples on the [FaIR Docs](https://docs.fairmodel.net/en/latest/examples.html), and all credit goes to the FaIR Development Team.
+This directory contains examples from [FaIR Docs](https://docs.fairmodel.net/en/latest/examples.html) and https://github.com/chrisroadmap/fair-calibrate/blob/main/input/fair-2.1.3/v1.4/all-2022/calibration/12_harmonize-emissions.py, and all credit goes to Dr. Chris Smith & the FaIR Development Team.

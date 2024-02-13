@@ -1,0 +1,3 @@
+[submodule "silicone_examples"]
+	path = silicone_examples
+	url = https://github.com/GranthamImperial/silicone_examples

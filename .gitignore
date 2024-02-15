@@ -16,8 +16,5 @@ nohup.out
 .profile
 .ssh
 .viminfo
-# work for climate hub #
-ports_flooding.ipynb
-Disruptions.csv
-Continent_List.csv
-Climate_scenarios_climate_risk.csv
+
+c_hub/

@@ -1,7 +1,10 @@
-# FaIR Project
+# FaIR Climate Model Emulator
 Erica Simon, Climate Risk Intern
 
-January - March 2024
+January to March 2024
 
-## Project Goal
-Build a dedicated VM and GitHub repository that reproduces historical warming, is optimized for probabilistic runs of FaIR under different emissions trajectories, and contains a method to visualize key outputs.
+## Project Summary
+This repository contains code to setup FaIR in a manner that reproduces historical warming trends and is optimized for probabilistic runs under different policy scenarios, which are formulized as emissions trajectories. Additionally, it contains methods to visualize key outputs of FaIR with a focus on the high-end tail of the distribution (95th percentile).
+
+## Recommended Workflow
+- `FaIR_hist.ipynb`: this notebook

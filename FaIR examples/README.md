@@ -1,2 +1,0 @@
-# FaIR Examples
-This directory contains examples from [FaIR Docs](https://docs.fairmodel.net/en/latest/examples.html) and https://github.com/chrisroadmap/fair-calibrate, and all credit goes to Dr. Chris Smith & the FaIR Development Team.

@@ -1,0 +1,3 @@
+[submodule "FAIR"]
+	path = FAIR
+	url = https://github.com/OMS-NetZero/FAIR

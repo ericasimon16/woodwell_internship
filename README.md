@@ -8,8 +8,10 @@ This repository contains code to setup FaIR in a manner that reproduces historic
 
 ## Recommended Workflow
 `FAIR/examples/basic_run_example.ipynb`
-I've added a submodule that links to a repo owned by Dr. Chris Smith, the main creator of FaIR. The examples directory is very useful i
+
+I've added a submodule that links to a repo owned by Dr. Chris Smith, the main creator of FaIR. The examples directory is very useful if you are interested in understanding how FaIR works, particularly if you'd like to modify/create an instance of the model. However, if you are just interested in running an exisiting instance and visualizing the outputs, then this step may not be necessary.
 
 `FaIR_hist.ipynb` 
-this notebook
+
+this notebook...
 

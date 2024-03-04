@@ -12,7 +12,7 @@ This repository contains code to setup FaIR in a manner that reproduces historic
 
 `FAIR/examples`
 
-I've added a submodule that links to a repo made by Dr. Chris Smith, the main creator of FaIR. The examples directory is very useful if you are interested in understanding how FaIR works, especially if you'd like to modify/create an instance of the model. The notebook `basic_run_example.ipynb` in particular is a great introduction. However, if you are just interested in running an exisiting instance and visualizing the outputs, then this step may not be necessary.
+I've added a submodule that links to a repo[https://github.com/OMS-NetZero/FAIR/tree/master] made by Dr. Chris Smith, the main creator of FaIR. The `examples` directory is very useful if you are interested in understanding how FaIR works, especially if you'd like to modify/create an instance of the model. The notebook `basic_run_example.ipynb` in particular is a great introduction. However, if you are just interested in running an exisiting instance and visualizing the outputs, then this step may not be necessary.
 
 `FaIR_hist.ipynb` 
 

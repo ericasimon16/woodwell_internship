@@ -1,6 +1,0 @@
-[submodule "silicone_examples"]
-	path = silicone_examples
-	url = https://github.com/GranthamImperial/silicone_examples
-[submodule "ndc-realisations-2021"]
-	path = ndc-realisations-2021
-	url = https://github.com/climate-resource/ndc-realisations-2021

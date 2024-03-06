@@ -16,7 +16,7 @@ The Finite Amplitude Impluse Response (FaIR) model is a climate model emulator t
 
 `FAIR/examples`
 
-I've added a submodule that links to [this repo](https://github.com/OMS-NetZero/FAIR/tree/master) made by Dr. Chris Smith, the main creator of FaIR. The `examples` directory is very useful if you are interested in understanding how FaIR works, especially if you'd like to modify/create an instance of the model. The notebook `basic_run_example.ipynb` in particular is a great introduction.
+I've added a submodule that links to [this repo](https://github.com/OMS-NetZero/FAIR/tree/master) made by Dr. Chris Smith from University of Leeds, the creator of FaIR. The `examples` directory is very useful if you are interested in understanding how FaIR works, especially if you'd like to modify/create an instance of the model. The notebook `basic_run_example.ipynb` in particular is a great introduction.
 
 `FaIR_hist.ipynb` 
 
@@ -28,6 +28,7 @@ this notebook...
 ### Data Preprocessing
 
 `hist_emis_clean.ipynb`
+This notebook details the source of the historical emissions dataset used and renames a handful of variables to match formatting needed for FaIR/aneris.
 
 `NGFS_clean_interp.ipynb`
 

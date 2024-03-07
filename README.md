@@ -35,13 +35,17 @@ This notebook details the source of the historical emissions dataset used and re
 
 This notebook cleans the NGFS datasets used to map policy scenarios to emissions trajectories, in addition to providing background information on the source and methods to update projections as new data becomes available.
 
-Cleaning the data involves four steps: 
-- Renaming some variable to match FaIR species
+Cleaning the data involves the following steps: 
+- Renaming variables to match FaIR species
 - Adjusting units to ensure consistency with the hist. dataset (e.g. CO2 changed from Mt to Gt)
-- Infilling missing species: ~30 gas species required to run FaIR were not included in the NGFS dataset. These were mostly minor F-gases with low emissions magnitude but high GWP. To infill the missing species, they are first separated into F-gases and non-F-gases. For the F-gases, the trend in the total "F-gas basket" projection is used to infill. For the non-F-gases, the trend in CO2 emissions is used.
-- Interpolating to annual timesteps for emissions, as the NGFS datasets contain 5-year intervals
+- Infilling missing species: ~30 gas species required to run FaIR were not included in the NGFS dataset. These were mostly minor F-gases with low emissions magnitude but high GWP. To infill the missing species, they are first separated into F-gases and non-F-gases. For the F-gases, the trend in the total "F-gas basket" projection is used to infill. For the non-F-gases, the trend in CO2 projections is used.
+- Interpolating to annual timesteps, as the NGFS projections are at 5-year intervals
 
 `harmonization.ipynb`
+
+Since the historical and future emissions datasets come from different sources, there can be inconsistencies in emissions values at the year of overlap (in this case, 2022). For instance, in one case the historical dataset contains 380 Mt CH4 in 2022, while GCAM projects 320 Mt CH4 in 2022 (since projections start in 2020). Thus, harmonization is a methodology to provide a smooth transition between the two timeseries without compromising the details of the projected trend. Since there are multiple valid harmonization methods (see figure below), the Python software [Aneris](https://github.com/iiasa/aneris) is employed to automate choosing the harmonization method. 
+
+Thus, this notebook runs the Aneris harmonizer on the historical and projected datasets. It also includes plots to demonstrate the results of harmonization.
 
 ### Running FaIR
 

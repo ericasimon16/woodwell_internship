@@ -48,6 +48,10 @@ Since the historical and future emissions datasets come from different sources, 
 
 Thus, this notebook runs the Aneris harmonizer on the historical and projected datasets. It also includes plots to demonstrate the results of harmonization.
 
+<img width="357" alt="Gidden 2018 fig" src="https://github.com/WoodwellRisk/FaIR/assets/129074733/4b0c3233-ae1d-4c66-bfc3-88373075c81f">
+
+[Gidden et al, 2018](https://doi.org/10.1016/j.envsoft.2018.04.002)
+
 ### Running FaIR
 
 

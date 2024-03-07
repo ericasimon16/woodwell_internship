@@ -33,6 +33,14 @@ This notebook details the source of the historical emissions dataset used and re
 
 `NGFS_clean_interp.ipynb`
 
+This notebook cleans the NGFS datasets used to map policy scenarios to emissions trajectories, in addition to providing background information on the source and methods to update projections as new data becomes available.
+
+Cleaning the data involves four steps: 
+- Renaming some variable to match FaIR species
+- Adjusting units to ensure consistency with the hist. dataset (e.g. CO2 changed from Mt to Gt)
+- Infilling missing species: ~30 gas species required to run FaIR were not included in the NGFS dataset. These were mostly minor F-gases with low emissions magnitude but high GWP. To infill the missing species, they are first separated into F-gases and non-F-gases. For the F-gases, the trend in the total "F-gas basket" projection is used to infill. For the non-F-gases, the trend in CO2 emissions is used.
+- Interpolating to annual timesteps for emissions, as the NGFS datasets contain 5-year intervals
+
 `harmonization.ipynb`
 
 ### Running FaIR

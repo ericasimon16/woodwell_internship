@@ -57,6 +57,7 @@ Thus, this notebook runs the Aneris harmonizer on the historical and projected d
 
 `run_ens.ipynb`
 
+This notebook sets up a probabilistic run of FaIR, using the parameter ensemble provided in the FaIR GitHub. For each IAM-generated emissions dataset, FaIR is run with ~800 configurations for each scenario for a total of ~6000 runs per model. The temperature output is saved as a netcdf to avoid the need to run the projections again.
 
 
 ### Postprocessing & Visualization of Outputs
@@ -64,3 +65,5 @@ Thus, this notebook runs the Aneris harmonizer on the historical and projected d
 `visualize_ens.ipynb`
 
 `ensemble_mean.ipynb`
+
+Since three datasets are used for future emissions projections, here I calculate an ensemble mean by averaging the temperature across the three outputs for each year, scenario, and climate config. This results in one dataset for each scenario with a temperature distribution of 814 configs, allowing for more concise visualizations. Also included here is code to plot the probabilistic bar charts for key years.

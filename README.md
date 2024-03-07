@@ -18,10 +18,6 @@ The Finite Amplitude Impluse Response (FaIR) model is a climate model emulator t
 
 I've added a submodule that links to [this repo](https://github.com/OMS-NetZero/FAIR/tree/master) made by Dr. Chris Smith from University of Leeds, the creator of FaIR. The `examples` directory is very useful if you are interested in understanding how FaIR works, especially if you'd like to modify/create an instance of the model. The notebook `basic_run_example.ipynb` in particular is a great introduction.
 
-`FaIR_hist.ipynb` 
-
-this notebook...
-
 `FaIR_harmonized`
 
 
@@ -50,19 +46,21 @@ Thus, this notebook runs the Aneris harmonizer on the historical and projected d
 
 <img width="357" alt="Gidden 2018 fig" src="https://github.com/WoodwellRisk/FaIR/assets/129074733/4b0c3233-ae1d-4c66-bfc3-88373075c81f">
 
-[Gidden et al, 2018](https://doi.org/10.1016/j.envsoft.2018.04.002)
+[Gidden et al. (2018)](https://doi.org/10.1016/j.envsoft.2018.04.002)
 
 ### Running FaIR
 
 
-`run_ens.ipynb`
+`run_ensemble.ipynb`
 
 This notebook sets up a probabilistic run of FaIR, using the parameter ensemble provided in the FaIR GitHub. For each IAM-generated emissions dataset, FaIR is run with ~800 configurations for each scenario for a total of ~6000 runs per model. The temperature output is saved as a netcdf to avoid the need to run the projections again.
 
 
 ### Postprocessing & Visualization of Outputs
 
-`visualize_ens.ipynb`
+`visualize_ensemble.ipynb`
+
+In this notebook, the temperature datasets from `run_ens.ipynb` are imported and visualizations are made with the data. In particular, the plots focus on the tails of the distribution (95th to 100th percentile) in years 2030, 2050, and 2100. The temperature datasets are viewed probabilistically across the 800 climate configurations using a kernel density estimator, which is a non-parametric method to estimate the pdf of a variable.
 
 `ensemble_mean.ipynb`
 

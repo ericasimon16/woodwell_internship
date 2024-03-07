@@ -45,12 +45,11 @@ Cleaning the data involves the following steps:
 
 Since the historical and future emissions datasets come from different sources, there can be inconsistencies in emissions values at the year of overlap (in this case, 2022). For instance, in one case the historical dataset contains 380 Mt CH4 in 2022, while GCAM projects 320 Mt CH4 in 2022 (since projections start in 2020). Thus, harmonization is a methodology to provide a smooth transition between the two timeseries without compromising the details of the projected trend. Since there are multiple valid harmonization methods (see figure below), the Python software [Aneris](https://github.com/iiasa/aneris) is employed to automate choosing the harmonization method. 
 
+Thus, this notebook runs the Aneris harmonizer on the historical and projected datasets. It also includes plots to demonstrate the results of harmonization.
+
 <img width="357" alt="Gidden 2018 fig" src="https://github.com/WoodwellRisk/FaIR/assets/129074733/4b0c3233-ae1d-4c66-bfc3-88373075c81f">
 
-
 [Gidden et al, 2018](https://doi.org/10.1016/j.envsoft.2018.04.002)
-
-Thus, this notebook runs the Aneris harmonizer on the historical and projected datasets. It also includes plots to demonstrate the results of harmonization.
 
 ### Running FaIR
 

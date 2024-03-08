@@ -2,13 +2,14 @@ name: fair-risk
 channels:
         - conda-forge
 dependencies:
+        - aneris-iamc>=0.3.1
         - jupyterlab
-        - matplotlib
-        - netCDF4
-        - numpy
-        - pandas
-        - seaborn
-        - xarray
+        - matplotlib>=3.6.0
+        - netCDF4>=1.6.1
+        - numpy>=1.23.3
+        - pandas>=2.2.0
+        - seaborn>=0.13.1
+        - xarray>=2022.9.0
         - pip:
                 - fair
                 - aneris-iamc

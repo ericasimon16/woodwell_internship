@@ -1,5 +1,6 @@
 # FaIR Climate Model Emulator
-Erica Simon, Climate Risk Intern
+Exploring extreme warming outcomes under policy scenarios using the FaIR simple climate model
+Erica Simon, Woodwell Climate Risk Intern
 
 January to March 2024
 

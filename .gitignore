@@ -19,3 +19,6 @@ nohup.out
 
 c_hub/
 installed.txt
+
+# files too large to commit
+outputs/*forcing_sum.nc

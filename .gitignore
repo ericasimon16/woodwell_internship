@@ -19,6 +19,7 @@ nohup.out
 
 c_hub/
 installed.txt
+*.ipynb_checkpoints*
 
 # files too large to commit
 outputs/*forcing.nc

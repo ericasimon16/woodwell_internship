@@ -1,6 +1,5 @@
 # Plots Directory
 
-This directory contains visualizations of the FaIR outputs. There are 5 subdirectories: 
+This directory contains visualizations of the FaIR outputs, focusing on temperature and radiative forcing. There are four subdirectories: 
 - one for each IAM: `GCAM`, `MESSAGE`, `REMIND`
-- one for the ensemble mean outcomes:`ens_mean`
-- one to visualize the whole ensemble (all 3 IAMs) at once: `ens_all`
+- one for the ensemble mean:`ens_mean`

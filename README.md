@@ -38,7 +38,7 @@ This directory contains all data produced as a result of running the notebooks, 
 
 `plots`
 
-All plots that were produced in this analyses were saved into this directory.
+All plots that were produced in the analysis were saved into this directory.
 
 `archive`
 

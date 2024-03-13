@@ -25,16 +25,21 @@ I've added a submodule that links to [this repo](https://github.com/OMS-NetZero/
 As described above, this submodule contains examples of setting up and running FaIR (author by the model's creators).
 
 `notebooks`
+
 This directory contains the code to run set up and FaIR as detailed in the project overview. 
 
 `inputs`
+
 This directory contains input files for future emissions trajectories, downloaded from the [NGFS Scenarios Portal](https://www.ngfs.net/ngfs-scenarios-portal/).
 
 `outputs`
+
 This directory contains all data produced as a result of running the notebooks, including the cleaned input data and FaIR output data.
 
 `plots`
+
 All plots that were produced in this analyses were saved into this directory.
 
 `archive`
+
 This directory contains notebooks that were useful in the learning process of this project but were not ultimately used in the final methods.

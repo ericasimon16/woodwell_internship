@@ -16,7 +16,7 @@ The Finite Amplitude Impluse Response (FaIR) model is a climate model emulator t
 
 `FAIR/examples`
 
-I've added a submodule that links to [this repo](https://github.com/OMS-NetZero/FAIR/tree/master) made by Dr. Chris Smith from University of Leeds, the creator of FaIR. The `examples` directory is very useful if you are interested in understanding how FaIR works, especially if you'd like to modify/create an instance of the model. The notebook `basic_run_example.ipynb` in particular is a great introduction.
+I've added a submodule that links to [this repo](https://github.com/OMS-NetZero/FAIR/tree/master) made by Dr. Chris Smith from University of Leeds, the creator of FaIR. The `examples` directory is very useful if you are interested in understanding how FaIR works, especially if you'd like to modify/create an instance of the model. The notebook `FAIR/examples/basic_run_example.ipynb` in particular is a great introduction.
 
 ## Directories
 
@@ -25,11 +25,16 @@ I've added a submodule that links to [this repo](https://github.com/OMS-NetZero/
 As described above, this submodule contains examples of setting up and running FaIR (author by the model's creators).
 
 `notebooks`
+This directory contains the code to run set up and FaIR as detailed in the project overview. 
 
 `inputs`
+This directory contains input files for future emissions trajectories, downloaded from the [NGFS Scenarios Portal](https://www.ngfs.net/ngfs-scenarios-portal/).
 
 `outputs`
+This directory contains all data produced as a result of running the notebooks, including the cleaned input data and FaIR output data.
 
 `plots`
+All plots that were produced in this analyses were saved into this directory.
 
 `archive`
+This directory contains notebooks that were useful in the learning process of this project but were not ultimately used in the final methods.

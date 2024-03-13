@@ -1,6 +1,6 @@
-## Recommended Workflow
+# Notebooks- Recommended Workflow
 
-### Data Preprocessing
+## Data Preprocessing
 
 `01_hist_emis_clean.ipynb`
 
@@ -27,7 +27,7 @@ Thus, this notebook runs the Aneris harmonizer on the historical and projected d
 
 [Gidden et al. (2018)](https://doi.org/10.1016/j.envsoft.2018.04.002)
 
-### Running FaIR
+## Running FaIR
 
 
 `04_run_ensemble.ipynb`
@@ -35,7 +35,7 @@ Thus, this notebook runs the Aneris harmonizer on the historical and projected d
 This notebook sets up a probabilistic run of FaIR, using the parameter ensemble provided in the FaIR GitHub. For each IAM-generated emissions dataset, FaIR is run with ~800 configurations for each scenario for a total of ~6000 runs per model. The temperature output is saved as a netcdf to avoid the need to run the projections again.
 
 
-### Postprocessing & Visualization of Outputs
+## Postprocessing & Visualizing Outputs
 
 `05_visualize_ensemble.ipynb`
 

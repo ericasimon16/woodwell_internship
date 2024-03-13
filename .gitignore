@@ -1,5 +1,6 @@
 .ipynb_checkpoints/*
 */.ipynb_checkpoints/*
+*.ipynb_checkpoints*
 nohup.out
 
 .bash_history
@@ -17,9 +18,11 @@ nohup.out
 .ssh
 .viminfo
 
-c_hub/
-installed.txt
-*.ipynb_checkpoints*
-
 # files too large to commit
 outputs/*forcing.nc
+
+# personal files
+c_hub/
+installed.txt
+
+

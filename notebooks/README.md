@@ -4,7 +4,7 @@
 
 `01_hist_emis_clean.ipynb`
 
-This notebook details the source of the historical emissions dataset used and renames a handful of variables to match formatting needed for FaIR/aneris.
+This notebook details the source of the historical emissions dataset used and renames a handful of variables to match formatting needed for FaIR/aneris. The historical dataset is needed because the NGFS (future) dataset only documents emissions from 1950 on. Additionally, it is important that the historical emissions inputs come from measurements or estimations rather than as IAM output in order to ensure higher accuracy.
 
 `02_NGFS_clean_interp.ipynb`
 

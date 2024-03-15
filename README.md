@@ -23,7 +23,7 @@ I've added a submodule that links to [this repo](https://github.com/OMS-NetZero/
 
 `FAIR`
 
-As described above, this submodule contains examples of setting up and running FaIR (author by the model's creators).
+As described above, this submodule contains examples of setting up and running FaIR (authored by the model's creators).
 
 `notebooks`
 
